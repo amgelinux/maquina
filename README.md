@@ -15,7 +15,7 @@ Usa MySQL Workbench para gestionar la base de datos.
 - Como guía rápida tenemos W3Schools:
   - https://www.w3schools.com/php/default.asp
 - Para ir más lento y seguro:
-  - Libro de Eugenia Bahit
+  - [Libro de Eugenia Bahit] (http://46.101.4.154/Libros/El%20lenguaje%20PHP.pdf)
   - este profesor tiene buenos vídeos: [Curso de PHP de pildorasinformaticas](https://youtu.be/I75CUdSJifw) 
 
 ## Web root
